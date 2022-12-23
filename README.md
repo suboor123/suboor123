@@ -24,9 +24,10 @@
 <h3 align="left">Connect with me:</h3>
 
 [linkedIn](https://www.linkedin.com/in/suboor-khan-314136158/)
+<br/>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
+<h1 align="center">Languages and Tools:</h1>
+<p align="center">
     <a href="#" target="_blank" rel="noreferrer">
         <img style="object-fit: cover;" height="60"  src="https://firebasestorage.googleapis.com/v0/b/personal-36b0f.appspot.com/o/tags%2FReact-icon.svg.png2022-09-07T21%3A50%3A04.880Z?alt=media&token=7530eb4d-969e-46d7-bf4a-879cff8ffcec" 
              />
