@@ -30,8 +30,25 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-    <a href="https://www.blender.org/" target="_blank" rel="noreferrer">
-        <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender"
+    <a href="#" target="_blank" rel="noreferrer">
+        <img src="https://firebasestorage.googleapis.com/v0/b/personal-36b0f.appspot.com/o/tags%2FReact-icon.svg.png2022-09-07T21%3A50%3A04.880Z?alt=media&token=7530eb4d-969e-46d7-bf4a-879cff8ffcec" 
+             />
+    </a>
+     <a href="#" target="_blank" rel="noreferrer">
+        <img src="https://firebasestorage.googleapis.com/v0/b/personal-36b0f.appspot.com/o/tags%2FTypescript_logo_2020.svg.png2022-09-07T21%3A50%3A59.507Z?alt=media&token=20fdfd2a-6572-4dfa-9625-92d885b786e2" 
+             />
+    </a>
+       <a href="#" target="_blank" rel="noreferrer">
+        <img src="https://firebasestorage.googleapis.com/v0/b/personal-36b0f.appspot.com/o/tags%2F5847ea22cef1014c0b5e4833.png2022-09-07T21%3A51%3A48.267Z?alt=media&token=5bafd23a-fa37-478a-b69c-892aa8058155" 
+             />
+    </a>
+        <a href="#" target="_blank" rel="noreferrer">
+        <img src="https://firebasestorage.googleapis.com/v0/b/personal-36b0f.appspot.com/o/tags%2F5848309bcef1014c0b5e4a9a.png2022-09-07T21%3A52%3A17.475Z?alt=media&token=dc553302-18df-4a3e-8251-3d7538ce0d18" 
+             />
+    </a>
+       </a>
+        <a href="#" target="_blank" rel="noreferrer">
+        <img src="https://firebasestorage.googleapis.com/v0/b/personal-36b0f.appspot.com/o/tags%2Fnodejs-logo-FBE122E377-seeklogo.com.png2022-09-07T21%3A54%3A46.658Z?alt=media&token=77c98739-4caa-46ca-9b71-256df5164854" 
              />
     </a>
 </p>
