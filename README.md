@@ -69,4 +69,15 @@
         <img height="40"  src="https://firebasestorage.googleapis.com/v0/b/personal-36b0f.appspot.com/o/tags%2F58480a44cef1014c0b5e4917.png2022-09-07T22%3A10%3A09.592Z?alt=media&token=2738f86e-6321-4706-83c0-1615944db63a" 
              />
     </a>
+               <a href="#" target="_blank" rel="noreferrer">
+        <img height="40"  src="https://firebasestorage.googleapis.com/v0/b/personal-36b0f.appspot.com/o/tags%2Fbootstrap-logo.png2022-09-07T22%3A21%3A00.058Z?alt=media&token=f6556aa6-80c7-4e56-a72e-24ec5f491137" 
+             />
+                       <a href="#" target="_blank" rel="noreferrer">
+        <img height="40"  src="https://firebasestorage.googleapis.com/v0/b/personal-36b0f.appspot.com/o/tags%2FData-structure-and-algorithms.png2022-09-07T22%3A01%3A25.710Z?alt=media&token=2542007b-82cd-4581-b722-b94745d81182" 
+             />
+    </a>
+          <a href="#" target="_blank" rel="noreferrer">
+        <img height="40"  src="https://firebasestorage.googleapis.com/v0/b/personal-36b0f.appspot.com/o/tags%2F25231.png2022-09-07T22%3A02%3A59.833Z?alt=media&token=a62cba92-42fc-4991-9cd0-dee2768eac3d" 
+             />
+    </a>
 </p>
