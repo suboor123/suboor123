@@ -1,4 +1,4 @@
-[![MasterHead](https://visme.co/blog/wp-content/uploads/2019/10/animated-presentation-software-header.gif)]()
+[![MasterHead](https://static01.nyt.com/images/2020/12/23/business/23Techfix-illo/23Techfix-illo-superJumbo.gif]()
 
 <h1 align="center">Hi 👋, I'm Suboor Khan</h1>
 <h3 align="center">A multidisciplinary Full-Stack developer from India</h3>
