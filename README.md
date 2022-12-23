@@ -48,4 +48,24 @@
         <img height="40" width="40" src="https://firebasestorage.googleapis.com/v0/b/personal-36b0f.appspot.com/o/tags%2Fnodejs-logo-FBE122E377-seeklogo.com.png2022-09-07T21%3A54%3A46.658Z?alt=media&token=77c98739-4caa-46ca-9b71-256df5164854" 
              />
     </a>
+            <a href="#" target="_blank" rel="noreferrer">
+        <img height="40" width="40" src="https://firebasestorage.googleapis.com/v0/b/personal-36b0f.appspot.com/o/tags%2F62a7475d223343fbc2207cff.png2022-09-07T21%3A57%3A16.343Z?alt=media&token=35b45df6-343b-4623-82ef-31b112e111af" 
+             />
+    </a>
+     <a href="#" target="_blank" rel="noreferrer">
+        <img height="40" width="40" src="https://firebasestorage.googleapis.com/v0/b/personal-36b0f.appspot.com/o/tags%2F5847f40ecef1014c0b5e488a.png2022-09-07T21%3A57%3A52.801Z?alt=media&token=3ff744fb-5c31-4405-89fe-e3370750f014" 
+             />
+    </a>
+         <a href="#" target="_blank" rel="noreferrer">
+        <img height="40" width="40" src="https://firebasestorage.googleapis.com/v0/b/personal-36b0f.appspot.com/o/tags%2FJavaScript-logo.png2022-09-07T22%3A07%3A53.003Z?alt=media&token=424ab6dc-5f2b-47be-9bf6-a593a68f6177" 
+             />
+    </a>
+       <a href="#" target="_blank" rel="noreferrer">
+        <img height="40" width="40" src="https://firebasestorage.googleapis.com/v0/b/personal-36b0f.appspot.com/o/tags%2Fvertical-logo-monochromatic.webp2022-09-07T22%3A09%3A29.389Z?alt=media&token=4151dde7-14e8-4007-8598-bc44b268d20c" 
+             />
+    </a>
+           <a href="#" target="_blank" rel="noreferrer">
+        <img height="40" width="40" src="https://firebasestorage.googleapis.com/v0/b/personal-36b0f.appspot.com/o/tags%2F58480a44cef1014c0b5e4917.png2022-09-07T22%3A10%3A09.592Z?alt=media&token=2738f86e-6321-4706-83c0-1615944db63a" 
+             />
+    </a>
 </p>
