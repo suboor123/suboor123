@@ -17,7 +17,7 @@
 
 - 👨‍💻 All of my projects are available at [suboorkhan](http://suboorkhan.com/)
 
-- 💬 Ask me about ** Javascript Typescript Angular React Node **
+- 💬 Ask me about **Javascript Typescript Angular React Node**
 
 - 📫 How to reach me **suboork100@gmail.com**
 
