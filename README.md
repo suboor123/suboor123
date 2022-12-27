@@ -11,13 +11,13 @@
 
 - 🔭 I’m currently working on [Chetu India](https://www.chetu.com/)
 
-- 🌱 I’m currently learning **Kubernettes Golang**
+- 🌱 I’m currently learning **Kubernettes, Golang**
 
 - 👯 I’m looking to collaborate on **Open Source**
 
 - 👨‍💻 All of my projects are available at [suboorkhan](http://suboorkhan.com/)
 
-- 💬 Ask me about **Javascript Typescript Angular React Node**
+- 💬 Ask me about **Javascript, Typescript, Angular, React, Node**
 
 - 📫 How to reach me **suboork100@gmail.com**
 
