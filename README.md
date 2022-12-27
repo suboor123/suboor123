@@ -22,8 +22,8 @@
 - 📫 How to reach me **suboork100@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
+<h3 align="left">[linkedIn](https://www.linkedin.com/in/suboor-khan-314136158/)</h3>
 
-[linkedIn](https://www.linkedin.com/in/suboor-khan-314136158/)
 <br/>
 
 <h1 align="center">Languages and Tools:</h1>
