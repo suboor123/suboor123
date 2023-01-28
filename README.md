@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on [Chetu India](https://www.chetu.com/)
 
-- 🌱 I’m currently learning **Kubernettes, Golang**
+- 🌱 I’m currently learning **Kubernettes, Golang, Rust**
 
 - 👯 I’m looking to collaborate on **Open Source**
 
