@@ -9,7 +9,7 @@
         alt="suboorkhan" />
 </p>
 
-- 🔭 I’m currently working on [Chetu India](https://www.chetu.com/)
+- 🔭 I’m currently working in [Hindustan Times](https://www.hindustantimes.com/)
 
 - 🌱 I’m currently learning **Kubernettes, Golang, Rust**
 
